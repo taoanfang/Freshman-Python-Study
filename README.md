@@ -7,3 +7,6 @@ This repository contains my Python learning projects as a first-year CS student.
 - Functions
 - File handling
 - OOP
+
+## Projects
+- Personal Maze Generator
